@@ -1,0 +1,8 @@
+**/token.json
+**/cloudbaserc.json
+**/*.local.js
+**/.env
+user_prefs.json
+learning_log.json
+.DS_Store
+Thumbs.db
