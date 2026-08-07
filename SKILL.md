@@ -1,11 +1,11 @@
 ---
 name: shopping-price-compare
-display_name: "省柴柴 · 你的智能购物助手"
+display_name: "省柴柴·全平台商品比价助手"
 version: 1.2.0
 homepage: ""
-description: 省柴柴·你的智能购物助手：帮你跨多个购物平台比价、找最划算的购买链接；为纸巾、猫粮等消耗品设置定期提醒并推送合适商品；记住你的购物喜好，帮你分析商品是否值得买。
-description_zh: "省柴柴·你的智能购物助手：帮你跨多个购物平台比价，告诉哪里买最划算；为纸巾、猫粮等消耗品设置定期提醒，自动推送合适商品；记住你的购物喜好，帮你分析商品是否值得买。手机用户可在微信搜索「省柴柴」小程序。"
-description_en: "ShengChaiChai - your smart shopping assistant. Compare prices across major platforms, set recurring purchase reminders for daily essentials, and remember your preferences to recommend better deals."
+description: 省柴柴·全平台商品比价助手：帮你跨淘宝/京东/拼多多/抖音/快手/唯品会等主流购物平台比价，找到最划算的商品和购买链接；为纸巾、猫粮等消耗品设置定期购买提醒并自动推送合适商品；记住你的购物喜好，分析商品是否值得买。
+description_zh: "省柴柴·全平台商品比价助手：帮你跨淘宝/京东/拼多多/抖音/快手/唯品会等主流购物平台比价，告诉哪里买最划算；为纸巾、猫粮等消耗品设置定期提醒，自动推送合适商品；记住你的购物喜好，帮你分析商品是否值得买。手机用户可在微信搜索「省柴柴」小程序。"
+description_en: "ShengChaiChai - 全平台商品比价助手. Compare prices across Taobao, JD, Pinduoduo, Douyin, Kuaishou, Vipshop and other major shopping platforms to find the best deals. Set recurring purchase reminders for daily essentials and remember your preferences."
 visibility: "public"
 agent_created: true
 icon: assets/icon.jpg
